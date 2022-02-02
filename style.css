@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+text-align: center;
+}
+h1{
+    font-size: x-larger;
+    color: red;
+
+}
+label{
+    padding: 2rem;
+    margin: 2rem;
+    font-size: larger;
+}
+button{
+    border-radius: 0.5rem;
+}
+.container{
+    color: blue;
+    margin: 2rem;
+
+}
+label,
+input{
+color: blue;
+}
+
+input{
+    color: blue
+;
+}
